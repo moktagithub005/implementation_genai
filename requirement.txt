@@ -1,0 +1,3 @@
+langchain
+langchin-community
+pypdf
