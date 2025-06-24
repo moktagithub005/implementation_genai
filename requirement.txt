@@ -1,3 +1,6 @@
+ipykernel
 langchain
 langchin-community
 pypdf
+beautifulsoup4
+arxive
