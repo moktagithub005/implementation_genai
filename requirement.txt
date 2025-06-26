@@ -5,3 +5,5 @@ pypdf
 beautifulsoup4
 arxive
 requests
+python-dotenv
+openai
