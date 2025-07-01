@@ -1,3 +1,7 @@
 langchain-openai
 langsmith
-lanhchain-core
+langchain-core
+langchain-ollama
+python-dotenv
+langchain-community
+langchain
